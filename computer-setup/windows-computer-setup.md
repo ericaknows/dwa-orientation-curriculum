@@ -40,15 +40,16 @@ Here is a list of software you should have installed and configured before you b
     - [Instructions to configure GIT](#instructions-to-configure-git)
     - [Instructions to set the SSH key for GITHUB](#instructions-to-set-the-ssh-key-for-github)
       - [Test your SSH connection to Github](#test-your-ssh-connection-to-github)
-  - [Setup VSCode (Optional)](#setup-vscode-optional)
-    - [Instructions to set the tab default size to 2 spaces](#instructions-to-set-the-tab-default-size-to-2-spaces)
+  - [Setup VSCode](#setup-vscode)
     - [Instructions to install the Live Server extension in VSCode](#instructions-to-install-the-live-server-extension-in-vscode)
+    - [Instructions to install the Better Comments extension in VSCode](#instructions-to-install-the-better-comments-extension-in-vscode)
+    - [Instructions to install the W3C Web Validator extension in VSCode](#instructions-to-install-the-w3c-web-validator-extension-in-vscode)
+    - [Instructions to install the Error Lens extension in VSCode](#instructions-to-install-the-error-lens-extension-in-vscode)
     - [Instructions to install the Prettier extension in VSCode](#instructions-to-install-the-prettier-extension-in-vscode)
     - [Instructions to make Prettier your default code formatting tool](#instructions-to-make-prettier-your-default-code-formatting-tool)
     - [Instructions for automatically formatting code when saving a file](#instructions-for-automatically-formatting-code-when-saving-a-file)
-    - [Instructions to install the "Indent-rainbow" extension in VSCode](#instructions-to-install-the-indent-rainbow-extension-in-vscode)
-    - [Instructions to install the "Auto close tag" extension in VSCode](#instructions-to-install-the-auto-close-tag-extension-in-vscode)
-    - [Instructions to install the "Auto rename tag" extension in VSCode](#instructions-to-install-the-auto-rename-tag-extension-in-vscode)
+    - [Instructions to set the tab default size to 2 spaces (optional)](#instructions-to-set-the-tab-default-size-to-2-spaces-optional)
+    - [Instructions to install the "Indent-rainbow" extension in VSCode (Optional)](#instructions-to-install-the-indent-rainbow-extension-in-vscode-optional)
   - [How to reset the password for the UNIX user in WSL](#how-to-reset-the-password-for-the-unix-user-in-wsl)
 
 ## Google Chrome Browser
@@ -362,6 +363,8 @@ As long as it doesn't say 'Command Not Found' we're good to go
 5. Run the command `git config user.name` to verify that the user name is set correctly.
 6. Run the command `git config user.email` to verify that the user email is set correctly.
 
+[Video tutorial for the Git & GitHub installation process](https://www.loom.com/share/6f7281ba0c374dc193e7b8aa5e2f1ae9?sid=9c651724-4c20-4b6e-92a2-b5ebb9d97436)
+
 ### Instructions to set the SSH key for GITHUB
 
 1. Launch the Ubuntu application.
@@ -371,6 +374,9 @@ As long as it doesn't say 'Command Not Found' we're good to go
 #### Test your SSH connection to Github
 
 Run the command `ssh -T git@github.com` to test your connection to GitHub. Wait for the message "Hi user.name! You've successfully authenticated, but GitHub does not provide shell access."
+
+
+[Video tutorial for the Git & GitHub installation process](https://www.loom.com/share/67e1a1e98fc447d9bc8f7b7888af5954?sid=24b08ef6-6996-406e-a5fa-ff118a536d80)
 
 [Back to TOP](#table-of-contents)
 
@@ -385,6 +391,27 @@ Run the command `ssh -T git@github.com` to test your connection to GitHub. Wait 
 3. Search for the "Live Server" extension, which should have over 48 million installations.
 4. Click on the "Install" button to install the extension.
 5. Ensure the "Go Live" button appears in the VSCode status bar.
+
+### Instructions to install the Better Comments extension in VSCode
+
+1. Launch the VSCode application.
+2. Open the "Extensions" sidebar by pressing `Shift + Control + X`.
+3. Search for the "Better Comments" extension, which should have over 7 million installations.
+4. Click on the "Install" button to install the extension.
+
+### Instructions to install the W3C Web Validator extension in VSCode
+
+1. Launch the VSCode application.
+2. Open the "Extensions" sidebar by pressing `Shift + Control + X`.
+3. Search for the "W3C Web Validator" extension, which should have over 179,000 installations.
+4. Click on the "Install" button to install the extension.
+
+### Instructions to install the Error Lens extension in VSCode
+
+1. Launch the VSCode application.
+2. Open the "Extensions" sidebar by pressing `Shift + Control + X`.
+3. Search for the "Error Lens" extension, which should have over 5 million installations.
+4. Click on the "Install" button to install the extension.
 
 ### Instructions to install the Prettier extension in VSCode
 
@@ -430,19 +457,7 @@ Run the command `ssh -T git@github.com` to test your connection to GitHub. Wait 
 3. Search for the "indent-rainbow" extension, which has over 5 million installations.
 4. Click on the "Install" button to install the extension.
 
-### Instructions to install the "Auto close tag" extension in VSCode (optional)
-
-1. Launch the VSCode application.
-2. Open the "Extensions" sidebar (press `shift + ctrl + X`).
-3. Search for the "auto close tag" extension, which should have over 10 million installations.
-4. Proceed to install the extension by clicking on the "Install" button.
-
-### Instructions to install the "Auto rename tag" extension in VSCode (optional)
-
-1. Launch the VSCode application.
-2. Open the "Extensions" sidebar (press `shift + ctrl + X`).
-3. Search for the "auto rename tag" extension, which should have over 15 million installations.
-4. Proceed to install the extension by clicking on the "Install" button.
+[Video tutorial for the Recommended VS Code Setup & Installation process](https://www.loom.com/share/93a09531cff747bb8ce123a6aca84b24?sid=137ad148-ae53-422a-afad-789fa015ac3f)
 
 [Back to TOP](#table-of-contents)
 
