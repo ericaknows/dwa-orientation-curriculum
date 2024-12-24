@@ -17,6 +17,8 @@ Record a Loom video following the steps described below. Each step serves as acc
 
 **HINT:** Recording a Loom video with a Loom desktop client app lets you pause while recording, test the next set of instructions, and then resume recording to demonstrate the outcomes of those steps.
 
+> You must follow EVERY step unless the step includes the OS that you are not working with.
+
 The recorded video will prove that:
 
 - [ ] The software is installed.
