@@ -80,7 +80,7 @@ The recorded video will prove that:
   1. Navigate your terminal to the user's home location.
   2. List the folders and files of your user home location.
   3. List all (including hidden) the folders and files of your user's home location.
-  4. Create a new folder named "Devslopes projects" in your user's home location.
+  4. Create a new folder named "Devslopes projects" (must have a space symbol in the folder name) in your user's home location.
   5. Navigate your terminal into that new location.
   6. Create a new folder named "demonstration-project" in the new location.
   7. Create an index.html file in the "demonstration-project" location.
