@@ -1,5 +1,5 @@
 # Sample Assignment With Tests
-
+ 
 In this exercise you will learn to operate with assignments of the HTML&CSS curriculum.
 
 If you are not using VSCode you can install and run the "live-server" npm package following the list of commands:
