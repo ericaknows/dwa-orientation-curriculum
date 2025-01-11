@@ -4,7 +4,7 @@ In this exercise you will learn to operate with assignments of the HTML&CSS curr
 
 If you are not using VSCode you can install and run the "live-server" npm package following the list of commands:
 
-- [ ] Use `npm i live-server` to install the live-server package
+- [x] Use `npm i live-server` to install the live-server package
 - [ ] Use `npm run live-server` or `npx live-server --port=5551` to run the live-server. The port number should be 5551 strictly.
 
 ### Instructions and Resourses
@@ -29,9 +29,9 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] Initialize playwright and install project packages
   - [ ] Use `npm i` to install packages
   - [ ] Use `npm run browser-install` to install the browser environment for testing (131mb will be downloaded)
