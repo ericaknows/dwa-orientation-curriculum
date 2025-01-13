@@ -4,7 +4,7 @@ In this exercise you will learn to operate with assignments of the HTML&CSS curr
 
 If you are not using VSCode you can install and run the "live-server" npm package following the list of commands:
 
-- [x] Use `npm i live-server` to install the live-server package
+- [ ] Use `npm i live-server` to install the live-server package
 - [ ] Use `npm run live-server` or `npx live-server --port=5551` to run the live-server. The port number should be 5551 strictly.
 
 ### Instructions and Resourses
